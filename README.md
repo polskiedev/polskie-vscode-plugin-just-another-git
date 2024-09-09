@@ -1,0 +1,1 @@
+# polskie-vscode-plugin-just-another-git
